@@ -13733,7 +13733,7 @@
     (property "Value" "DC62_Female" (at 259.08 26.5176 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_Dsub:DSUB-62-HD_Female_Horizontal_P2.41x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm" (at 257.81 85.09 0)
+    (property "Footprint" "Connector_Dsub:DSUB-62-HD_Female_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm" (at 257.81 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (at 257.81 85.09 0)
