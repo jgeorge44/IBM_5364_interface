@@ -29,3 +29,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Stupid Macintosh Tricks
+.DS_Store
+
